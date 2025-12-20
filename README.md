@@ -10,3 +10,4 @@ This analysis examines La Liga teams across multiple dimensions:
 - **Squad Analysis**: Player market values, age distribution, squad depth, and quality metrics
 - **Head-to-Head Comparisons**: Direct matchup statistics and historical performance between teams
 - **Machine Learning Predictions**: ML-based investment scoring model for team performance forecasting
+
